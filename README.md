@@ -37,17 +37,14 @@ Amazon Project/
 
 ![Amazon Clone Screenshot 1](https://drive.google.com/uc?export=view&id=1weWavS6cQwMsweO88wWx6oVWDVmRHdDF)
 
-Direct link: [View image](https://drive.google.com/file/d/1weWavS6cQwMsweO88wWx6oVWDVmRHdDF/view?usp=drive_link)
+
 
 ### Screenshot 2
 
 ![Amazon Clone Screenshot 2](https://drive.google.com/uc?export=view&id=1WxpYtAW-X1oe0O-n8h53J7HjkMp5GuUW)
 
-Direct link: [View image](https://drive.google.com/file/d/1WxpYtAW-X1oe0O-n8h53J7HjkMp5GuUW/view?usp=drive_link)
 
-### Local Asset Preview
 
-![Prime Banner Section](photos/Amazonback2.png)
 
 ## Getting Started
 
